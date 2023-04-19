@@ -5,5 +5,5 @@ C programozás feladatok gyakorlás:
 
 002 - Írj egy programot, ami a felhasználó által megadott darabszámú és értékű tömb értékeit növekvősorba rendezi és kiírja a legnagyobb és legkisebb értéket.
 
-003 - Kör, négyzet és háromszög területének kiszámításához írjon egy programot. A felhasználó kiválasztja mit szeretne kiszámolni és megadja az értékeket.
+003 - Kör, négyzet és téglalap területének kiszámításához írjon egy programot. A felhasználó kiválasztja mit szeretne kiszámolni és megadja az értékeket.
 

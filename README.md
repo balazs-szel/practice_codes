@@ -7,4 +7,3 @@ C programozás feladatok gyakorlás:
 
 003 - Kör, négyzet és háromszög területének kiszámításához írjon egy programot. A felhasználó kiválasztja mit szeretne kiszámolni és megadja az értékeket.
 
-004 - 

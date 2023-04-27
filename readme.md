@@ -9,4 +9,6 @@ C programozás feladatok gyakorlás:
 
 004 - Egy 2 szereplős játék, ahol random értékű sebzésekkel csökken a játékosok élete. Akinek elfogy az élete az veszít.
 
+005 - Binary serch algorithm code: egy adott érték keresése egy tömbben.,
+
 
